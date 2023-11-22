@@ -1,1 +1,2 @@
-Ola mundo!
+Tamanho: 10
+Reverso: !odnum alO
